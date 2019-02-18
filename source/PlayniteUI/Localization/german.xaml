@@ -606,7 +606,7 @@ Playnite konnte nicht gestartet werden. Bitte versuche folgende Schritte um den 
     <sys:String x:Key="LOCGOGAccountSyncDescription" xml:space="preserve">Um deine vollständige GOG-Bibliothek zu synchronisieren trage deinen privaten oder öffentlichen Accountnamen ein. Um den öffentlichen Accountnamen nutzen zu können muss die Privatsphäre deines Profils auf Öffentlich gestellt werden.</sys:String>
 
     <!--Steam-->
-    <sys:String x:Key="LOCSettingsSteamLibrarySource" xml:space="preserve">Um deine vollständige Steam-Bibliothek zu synchronisieren trage deinen privaten Accountnamen oder deine Account URL ein. Um die Account URL nutzen zu können muss die Privatsphäre deines Profils auf Öffentlich gestellt oder ein API-Key eingetragen werden.</sys:String>
+    <sys:String x:Key="LOCSettingsSteamLibrarySource" xml:space="preserve">Um deine vollständige Steam-Bibliothek zu synchronisieren trage deinen privaten Accountnamen oder deine Account URL ein. Um diese Funktion nutzen zu können muss die Privatsphäre deines Profils auf Öffentlich gestellt oder ein API-Key eingetragen werden.</sys:String>
     <sys:String x:Key="LOCSteamCustomUrlName">Account URL</sys:String>
-    <sys:String x:Key="LOCSteamLoggedInUser">Angemeldet</sys:String>
+    <sys:String x:Key="LOCSteamLoggedInUser">Account</sys:String>
 </ResourceDictionary>
